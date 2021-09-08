@@ -1,0 +1,35 @@
+1. Header 
+- container height is too small
+- font is not correct
+Cause: H1 tag missing
+
+
+2. About Boo
+- not formatted correctly with paragraph spaces
+Cause: no p tags
+
+3. Image
+- not rendered at all
+Cause: missed <> brackets on img 
+
+4. Random Boo Fact
+- button not working
+Cause: syntax in js code, js file not linked correctly in HTML, fact array not seperated with ""s
+
+5. List of Boo's favorite things 
+- shown as one item, not a list
+Cause: No <li> tags, only reported the first item 
+
+6. General ordering issues of Boo Fact, Boo's Favorite Things, Boo Rules, and Dog Picture sections
+Cause: misplaced blocks of code
+
+7. Boo Rules
+- buttons not working
+Cause: button syntax in js code, js file not linked correctly in HTML
+
+8. Dog Picture
+- bottuns not working 
+Cause: button syntax in js code, js file not linked correctly in HTML
+
+9. No margin on bottom 4 <divs>
+Cause: extra </div> tag which kept elements out of container 
